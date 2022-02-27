@@ -1,0 +1,12 @@
+{
+    "name": "Smart_Home",
+    "description": "First Node-Red Project which collects data for the Smart Home Application",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "smart_home_raspberrypi.json",
+            "credentialsFile": "smart_home_raspberrypi_cred.json"
+        }
+    }
+}
