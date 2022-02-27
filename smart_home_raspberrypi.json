@@ -32,7 +32,8 @@
         "y": 220,
         "wires": [
             [
-                "5ff3a8981cc66247"
+                "5ff3a8981cc66247",
+                "bf7b84bd1cc65bd7"
             ]
         ]
     },
@@ -50,6 +51,22 @@
         "statusType": "auto",
         "x": 510,
         "y": 220,
+        "wires": []
+    },
+    {
+        "id": "bf7b84bd1cc65bd7",
+        "type": "debug",
+        "z": "f8ab8a20a10874eb",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 510,
+        "y": 280,
         "wires": []
     }
 ]
